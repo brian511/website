@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://teaandcoffee-theme.myshopify.com/de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://teaandcoffee-theme.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://teaandcoffee-theme.myshopify.com/de/collections/rooibos.atom"/>
+  <title>teaandcoffee-theme</title>
+  <updated>2020-07-21T04:27:11-04:00</updated>
+  <author>
+    <name>teaandcoffee-theme</name>
+  </author>
+  <entry>
+    <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+    <published>2020-07-21T04:27:11-04:00</published>
+    <updated>2020-07-21T04:27:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://teaandcoffee-theme.myshopify.com/de/products/loremous-saliduar-a-cosmopolito-6"/>
+    <title>Lobortis desan mollis ut risus</title>
+    <s:type>Solutmades</s:type>
+    <s:vendor>Daventry Meers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0418/1904/6039/products/tea-11_e5d46275-1d39-40ca-9704-82905768ded6.jpg?v=1595320035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Daventry Meers<br>
+        <strong>Art: </strong>Solutmades<br>
+        <strong>Preis: </strong>
+            20.00 - 128.00
+            <a href="https://teaandcoffee-theme.myshopify.com/de/products/loremous-saliduar-a-cosmopolito-6">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="col-row-des row">
+<div class="col-12 col-xs-6 item">
+<h3 class="title">Sample heading title</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo, elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis sit amet eros.</p>
+</div>
+<div class="col-12 col-xs-6 item">
+<h3 class="title">Sample heading title</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo, elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis sit amet eros.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $69</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Daventry Meers</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Solutmades</s:tag>
+    <s:tag>XSmall</s:tag>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Lightcoral / XSmall</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>RT-0025EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Lightcoral / Small</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0026EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Lightcoral / Large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>RT-0027EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Lightcoral / XLarge</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>RT-0028EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Cornflowerblue / XSmall</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0016EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Cornflowerblue / Small</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>RT-0017EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Cornflowerblue / Medium</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0018EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Cornflowerblue / Large</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0019EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Cornflowerblue / XLarge</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0020EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Darkseagreen / XSmall</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0021EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Darkseagreen / Small</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0022EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Darkseagreen / Medium</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>RT-0023EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Darkseagreen / Large</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0024EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Grey / XSmall</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0029EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Grey / Small</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0030EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Grey / Medium</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0031EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Beige / XSmall</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0032EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Beige / Small</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0033EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Beige / Medium</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0034EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5398309666967</id>
+      <title>Beige / XLarge</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0035EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teaandcoffee-theme.myshopify.com/de/products/5312923369623</id>
+    <published>2020-06-26T03:47:35-04:00</published>
+    <updated>2020-06-26T03:47:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://teaandcoffee-theme.myshopify.com/de/products/loremous-saliduar-a-cosmopolito-1"/>
+    <title>Cosmo naminos delementum bra</title>
+    <s:type>Milancelos</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0418/1904/6039/products/tea-19_4a37bc13-7646-451e-8e01-820c947ce9c9.jpg?v=1593157674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Chanel<br>
+        <strong>Art: </strong>Milancelos<br>
+        <strong>Preis: </strong>
+            36.80 - 100.00
+            <a href="https://teaandcoffee-theme.myshopify.com/de/products/loremous-saliduar-a-cosmopolito-1">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="col-row-des row">
+<div class="col-12 col-xs-6 item">
+<h3 class="title">Sample heading title</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo, elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis sit amet eros.</p>
+</div>
+<div class="col-12 col-xs-6 item">
+<h3 class="title">Sample heading title</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo, elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis sit amet eros.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chanel</s:tag>
+    <s:tag>Darkseagreen</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Less than $39</s:tag>
+    <s:tag>Lightcoral</s:tag>
+    <s:tag>Milancelos</s:tag>
+    <s:tag>XSmall</s:tag>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312923369623</id>
+      <title>XSmall / Darkseagreen</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0021EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312923369623</id>
+      <title>XSmall / Grey</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0029EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312923369623</id>
+      <title>XSmall / Beige</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0032EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312923369623</id>
+      <title>Small / Darkseagreen</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0022EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312923369623</id>
+      <title>Small / Grey</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0030EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312923369623</id>
+      <title>Small / Beige</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0033EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312923369623</id>
+      <title>XLarge / Beige</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0035EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312923369623</id>
+      <title>Medium / Darkseagreen</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>RT-0023EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312923369623</id>
+      <title>Medium / Grey</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0031EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312923369623</id>
+      <title>Medium / Beige</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0034EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+    <published>2020-06-26T03:40:14-04:00</published>
+    <updated>2020-06-26T03:40:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://teaandcoffee-theme.myshopify.com/de/products/loremous-saliduar-a-cosmopolito"/>
+    <title>Loremous saliduar a cosmopolito</title>
+    <s:type>Solutmades</s:type>
+    <s:vendor>Daventry Meers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0418/1904/6039/products/tea-11_0d485c96-6702-4d84-a3e2-772b0f1ea71a.jpg?v=1593157522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Daventry Meers<br>
+        <strong>Art: </strong>Solutmades<br>
+        <strong>Preis: </strong>
+            20.00 - 128.00
+            <a href="https://teaandcoffee-theme.myshopify.com/de/products/loremous-saliduar-a-cosmopolito">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="col-row-des row">
+<div class="col-12 col-xs-6 item">
+<h3 class="title">Sample heading title</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo, elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis sit amet eros.</p>
+</div>
+<div class="col-12 col-xs-6 item">
+<h3 class="title">Sample heading title</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo, elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis sit amet eros.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $69</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Daventry Meers</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Solutmades</s:tag>
+    <s:tag>XSmall</s:tag>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Lightcoral / XSmall</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>RT-0025EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Lightcoral / Small</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0026EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Lightcoral / Large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>RT-0027EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Lightcoral / XLarge</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>RT-0028EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Cornflowerblue / XSmall</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0016EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Cornflowerblue / Small</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>RT-0017EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Cornflowerblue / Medium</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0018EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Cornflowerblue / Large</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0019EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Cornflowerblue / XLarge</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0020EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Darkseagreen / XSmall</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0021EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Darkseagreen / Small</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0022EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Darkseagreen / Medium</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>RT-0023EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Darkseagreen / Large</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0024EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Grey / XSmall</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0029EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Grey / Small</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0030EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Grey / Medium</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0031EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Beige / XSmall</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0032EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Beige / Small</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0033EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Beige / Medium</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku>RT-0034EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312913670295</id>
+      <title>Beige / XLarge</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>RT-0035EARL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teaandcoffee-theme.myshopify.com/de/products/5312580845719</id>
+    <published>2020-06-26T00:13:57-04:00</published>
+    <updated>2020-06-26T00:13:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://teaandcoffee-theme.myshopify.com/de/products/dinterdum-pretium-condimento-2"/>
+    <title>Hentum tosmo namin delemrin</title>
+    <s:type>Solutmades</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0418/1904/6039/products/tea-2_0a610f23-88d0-41df-9cb9-fe2b63ea22c6.jpg?v=1593144934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Burberry<br>
+        <strong>Art: </strong>Solutmades<br>
+        <strong>Preis: </strong>
+            36.80 - 69.00
+            <a href="https://teaandcoffee-theme.myshopify.com/de/products/dinterdum-pretium-condimento-2">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="col-row-des row">
+<div class="col-12 col-xs-6 item">
+<h3 class="title">Sample heading title</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo, elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis sit amet eros.</p>
+</div>
+<div class="col-12 col-xs-6 item">
+<h3 class="title">Sample heading title</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo, elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis sit amet eros.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $69</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Burberry</s:tag>
+    <s:tag>Darkseagreen</s:tag>
+    <s:tag>Lightskyblue</s:tag>
+    <s:tag>Solutmades</s:tag>
+    <s:tag>XLarge</s:tag>
+    <s:tag>XSmall</s:tag>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312580845719</id>
+      <title>Cornflowerblue / XSmall</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312580845719</id>
+      <title>Cornflowerblue / Medium</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312580845719</id>
+      <title>Cornflowerblue / Large</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312580845719</id>
+      <title>Cornflowerblue / XLarge</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312580845719</id>
+      <title>Grey / XSmall</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312580845719</id>
+      <title>Grey / Medium</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312580845719</id>
+      <title>Beige / XSmall</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312580845719</id>
+      <title>Beige / Medium</title>
+      <s:price currency="USD">36.80</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312580845719</id>
+      <title>Beige / XLarge</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teaandcoffee-theme.myshopify.com/de/products/5312580845719</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

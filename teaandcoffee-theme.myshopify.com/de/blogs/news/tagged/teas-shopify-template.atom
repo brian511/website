@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://teaandcoffee-theme.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://teaandcoffee-theme.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://teaandcoffee-theme.myshopify.com/de/blogs/news/tagged/teas-shopify-template.atom"/>
+  <title>teaandcoffee-theme - News</title>
+  <updated>2020-08-12T04:30:49-04:00</updated>
+  <author>
+    <name>teaandcoffee-theme</name>
+  </author>
+  <entry>
+    <id>https://teaandcoffee-theme.myshopify.com/de/blogs/news/naminos-lementum-an-cosmopolis</id>
+    <published>2020-08-12T04:30:49-04:00</published>
+    <updated>2020-08-12T04:30:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://teaandcoffee-theme.myshopify.com/de/blogs/news/naminos-lementum-an-cosmopolis"/>
+    <title>Naminos lementum an cosmopolis</title>
+    <author>
+      <name>Halo Themes</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo cosmo, elementum in malesuada an darius ut augue. Cras sit amet lectus et justo de feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis sit amet eros. Nam suscipit mollis tellus vel malesuada..</p>
+<div class="for-iframe"><iframe width="560" height="315" src="https://www.youtube.com/embed/S04_KBC8mIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div>Pellentesque aliquet nibh nec urna. In nisi neque aliquet vel dapibus id mattis vel nisi. Sed pretium ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandito nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti. Sed egestas ante et vulputate volutpat eros pede semper est, vitae luctus metus libero eu augue. Morbis purus libero faucibus adipiscing, commodo quis gravida id mesto sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. </div>
+<div class="article__body-block">
+<div class="col-row">
+<div class="article__body-block--left">
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, deus convallis est. Cras felis nunc commodo eu convallis.</p>
+<h3 class="title">Sample unordered list</h3>
+<ul class="list-order">
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h3 class="title">Sample ordered list</h3>
+<ol class="list-order">
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<a class="btn btn--primary" href="#">Sample Button</a>
+</div>
+<div class="article__body-block--right"><img src="https://cdn.shopify.com/s/files/1/0418/1904/6039/files/block.jpg?v=1595560136"></div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+</feed>

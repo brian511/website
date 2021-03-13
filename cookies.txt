@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+teaandcoffee-theme.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+teaandcoffee-theme.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	bd8e3a401bc1000f26bff7f208c508c2
+teaandcoffee-theme.myshopify.com	TRUE	/	FALSE	1999999999	_y	706977f8-8be8-4f7f-915c-c4fca53a78f1
+teaandcoffee-theme.myshopify.com	TRUE	/	FALSE	1999999999	_s	5dcab181-6e28-4c7b-8478-3981c55b7b76
+teaandcoffee-theme.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	706977f8-8be8-4f7f-915c-c4fca53a78f1
+teaandcoffee-theme.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	5dcab181-6e28-4c7b-8478-3981c55b7b76
+teaandcoffee-theme.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_fs	2021-03-13T06%3A19%3A29Z
+teaandcoffee-theme.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
